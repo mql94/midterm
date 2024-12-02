@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_red">#F6A1A1</color>
+    <color name="color_green">#B1E0B1</color>
+    <color name="color_blue">#A2C6E7</color>
+    <color name="color_yellow">#F8EEA2</color>
+    <color name="color_black">#000000</color>
+    <!-- 可以继续添加更多你想要的颜色 -->
+</resources>

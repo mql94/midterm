@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/imageView_red"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@color/color_red"
+        android:layout_margin="5dp"
+        android:clickable="true" />
+
+    <ImageView
+        android:id="@+id/imageView_green"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@color/color_green"
+        android:layout_margin="5dp"
+        android:clickable="true" />
+
+    <ImageView
+        android:id="@+id/imageView_blue"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@color/color_blue"
+        android:layout_margin="5dp"
+        android:clickable="true" />
+
+    <ImageView
+        android:id="@+id/imageView_yellow"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@color/color_yellow"
+        android:layout_margin="5dp"
+        android:clickable="true" />
+
+    <ImageView
+        android:id="@+id/imageView_black"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@color/color_black"
+        android:layout_margin="5dp"
+        android:clickable="true" />
+
+    <!-- 可以继续添加更多颜色对应的 ImageView -->
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Mobile Development\\NotePad_new-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Mobile Development\\NotePad_new-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,4,3,2,5",
+                        "startColumns": "-1,4,4,4,4",
+                        "startOffsets": "-1,149,102,57,195",
+                        "endColumns": "-1,44,45,43,46",
+                        "endOffsets": "-1,189,143,96,237"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,101,146,192,236",
+                        "endColumns": "45,44,45,43,46",
+                        "endOffsets": "96,141,187,231,278"
+                    }
+                },
+                {
+                    "source": "C:\\Mobile Development\\NotePad_new-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "283,328,369,430,476,527,573,630,673,720,763,808,863,906,953,1022,1073,1126,1172,1222,1272,1329",
+                        "endColumns": "44,40,60,45,50,45,56,42,46,42,44,54,42,46,68,50,52,45,49,49,56,50",
+                        "endOffsets": "323,364,425,471,522,568,625,668,715,758,803,858,901,948,1017,1068,1121,1167,1217,1267,1324,1375"
+                    }
+                }
+            ]
+        }
+    ]
+}
